@@ -1,4 +1,4 @@
-# NFL Team Rank Progression Visualization
+# NFL Team Passing Yards Rank Progression Visualization
 
 An example **Dash application** visualizing the rank progression of NFL teams based on their total passing yards from 2016 to 2024. This project demonstrates interactive data visualization using Python, Dash, and Plotly.
 
@@ -6,9 +6,8 @@ An example **Dash application** visualizing the rank progression of NFL teams ba
 
 ## Features
 
-- **Team Comparison**: Select two NFL teams and compare their rank progression over time.
+- **Team Comparison**: Select two NFL teams and compare their rank passing yards rank progression over time.
 - **Interactive Animation**: Watch an animated line graph showing rank changes year by year.
-- **Fixed Axes**: Clean and consistent view with fixed x-axis (years) and y-axis (rank 1 to 32).
 
 ---
 
